@@ -1,16 +1,31 @@
-## Hi there 👋
+##👋 Hi, I'm Muzamil Meo
 
-<!--
-**Muzamil-Ai-Dev/Muzamil-Ai-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###🚀 AI Enthusiast | Developer | Research Learner
 
-Here are some ideas to get you started:
+I love building things that connect AI, automation, and modern web technologies. My current focus is exploring AI Agents, Gemini CLI, and OpenAI SDKs to create intelligent research and productivity tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do
+
+🧠 Build AI-driven tools and CLIs
+
+🌐 Develop full-stack web apps (Next.js, React, Python)
+
+🤖 Experiment with agent frameworks and APIs
+
+📚 Currently Learning
+
+OpenAI Agent SDK + MCP
+
+React + Tailwind UI patterns
+
+Automation scripting with Bash and Python
+
+🧩 Tech Stack
+
+Python • JavaScript • React • Next.js • Node.js • Bash • OpenAI SDK
+
+🌱 Goals
+
+Create impactful open-source projects that blend research, AI, and developer tools.
+
+📫 Reach me: [Your email or LinkedIn/GitHub Discussions link]
