@@ -1,31 +1,18 @@
-# 👋 Hi, I'm Muzamil Meo
+# 👋 Hi, I'm Muzamil Meo  
 
-## *🚀 AI Enthusiast | Developer | Research Learner*
+💡 **AI & Agentic Systems Enthusiast**  
+🚀 Exploring the world of **Autonomous Agents**, **Python**, and **OpenAI/Gemini SDKs**  
+💻 Building real-world AI tools with **FastAPI**, **React**, and **Gemini CLI**  
 
-*I love building things that connect AI, automation, and modern web technologies. My current focus is exploring AI Agents, Gemini CLI, and OpenAI SDKs to create intelligent research and productivity tools.
+---
 
-###💡 What I Do
+## 🧠 Currently Learning
+- 🤖 Agentic AI Development & Automation  
+- ⚙️ Backend engineering with Python (FastAPI, Flask)  
+- 🌐 Modern Frontend with React.js  
+- 🧮 Applied Machine Learning & Prompt Engineering  
 
-🧠 Build AI-driven tools and CLIs
+---
 
-🌐 Develop full-stack web apps (Next.js, React, Python)
-
-🤖 Experiment with agent frameworks and APIs
-
-📚 Currently Learning
-
-OpenAI Agent SDK + MCP
-
-React + Tailwind UI patterns
-
-Automation scripting with Bash and Python
-
-🧩 Tech Stack
-
-Python • JavaScript • React • Next.js • Node.js • Bash • OpenAI SDK
-
-🌱 Goals
-
-Create impactful open-source projects that blend research, AI, and developer tools.*
-
-## 📫 Reach me: [Your email or LinkedIn/GitHub Discussions link]
+## 🔭 Current Projects
+- 🧠 **AI Research Agent** — pow
