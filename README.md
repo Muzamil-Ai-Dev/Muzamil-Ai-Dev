@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Muzamil Meo
 
-🚀 AI Enthusiast | Developer | Research Learner
+## *🚀 AI Enthusiast | Developer | Research Learner*
 
-I love building things that connect AI, automation, and modern web technologies. My current focus is exploring AI Agents, Gemini CLI, and OpenAI SDKs to create intelligent research and productivity tools.
+*I love building things that connect AI, automation, and modern web technologies. My current focus is exploring AI Agents, Gemini CLI, and OpenAI SDKs to create intelligent research and productivity tools.
 
-💡 What I Do
+###💡 What I Do
 
 🧠 Build AI-driven tools and CLIs
 
@@ -26,6 +26,6 @@ Python • JavaScript • React • Next.js • Node.js • Bash • OpenAI SDK
 
 🌱 Goals
 
-Create impactful open-source projects that blend research, AI, and developer tools.
+Create impactful open-source projects that blend research, AI, and developer tools.*
 
-📫 Reach me: [Your email or LinkedIn/GitHub Discussions link]
+## 📫 Reach me: [Your email or LinkedIn/GitHub Discussions link]
