@@ -1,4 +1,4 @@
-👋 Hi, I'm Muzamil Meo
+# 👋 Hi, I'm Muzamil Meo
 
 🚀 AI Enthusiast | Developer | Research Learner
 
